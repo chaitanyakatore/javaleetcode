@@ -1,3 +1,7 @@
+//array
+
+
+
 import java.util.scanner;
 public class Array{
     public static void main(String[] args){
