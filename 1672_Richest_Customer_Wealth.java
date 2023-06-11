@@ -1,3 +1,4 @@
+//1672 Richest customer wealth 
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int max = -1;
