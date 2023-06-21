@@ -1,6 +1,5 @@
 //1281. Subtract the Product and Sum of Digits of an Integer
 
-
 //using the modulo and reminder method
 class Solution {
     public int subtractProductAndSum(int n) {
