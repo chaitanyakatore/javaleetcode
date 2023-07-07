@@ -1,4 +1,5 @@
-//removing duplicates from the sorted linked list
+//LinkedList: removing duplicates from the sorted linked list 
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
