@@ -1,4 +1,4 @@
-//LinkedList: removing duplicates from the sorted linked list 
+//LinkedList Question: removing duplicates from the sorted linked list 
 
 /**
  * Definition for singly-linked list.
